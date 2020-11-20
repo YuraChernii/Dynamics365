@@ -1,0 +1,8 @@
+D:\repo\dll(C#)\DemoPlugin1\DemoPlugin1\bin\Debug\DemoPlugin1.dll
+D:\repo\dll(C#)\DemoPlugin1\DemoPlugin1\bin\Debug\DemoPlugin1.pdb
+D:\repo\dll(C#)\DemoPlugin1\DemoPlugin1\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\repo\dll(C#)\DemoPlugin1\DemoPlugin1\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\repo\dll(C#)\DemoPlugin1\DemoPlugin1\obj\Debug\DemoPlugin1.csproj.CoreCompileInputs.cache
+D:\repo\dll(C#)\DemoPlugin1\DemoPlugin1\obj\Debug\DemoPlugin1.csproj.CopyComplete
+D:\repo\dll(C#)\DemoPlugin1\DemoPlugin1\obj\Debug\DemoPlugin1.dll
+D:\repo\dll(C#)\DemoPlugin1\DemoPlugin1\obj\Debug\DemoPlugin1.pdb
